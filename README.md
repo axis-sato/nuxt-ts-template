@@ -1,6 +1,12 @@
 # nuxt-ts-template
 
-> My epic Nuxt.js project
+This project is a Typescript template with Nuxt.js.
+
+## Clone
+
+``` bash
+$ git clone origin git@github.com:c8112002/nuxt-ts-template.git
+```
 
 ## Build Setup
 
